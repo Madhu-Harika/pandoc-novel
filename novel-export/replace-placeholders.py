@@ -21,7 +21,7 @@ valid_modes = ["basic", "templite", "jinja2"]
 parser=argparse.ArgumentParser()
 parser.add_argument('--input', '-i', help="Input text file", type= str, required=True)
 parser.add_argument('--json-file', '-j', help="JSON file with placeholders and values", type= str, required=True)
-parser.add_argument('--json-values', '-v', help="[optional] JSON string of additonal placeholders", type= str, default= "")
+parser.add_argument('--json-values', '-v', help="[optional] JSON string of additional placeholders", type= str, default= "")
 parser.add_argument('--replacement-mode', '-m', help=f"[optional] Replacement system to use: {', '.join(valid_modes)} or none (default is basic)", type= str, default= "basic")
 args=parser.parse_args()
 
